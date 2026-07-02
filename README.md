@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi, I'm Mjd 👋
 
-<!--
-**Mjdalturaysi/Mjdalturaysi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an aspiring Cybersecurity professional from Saudi Arabia with a strong interest in Ethical Hacking, Bug Bounty, Python, and Automation.
 
-Here are some ideas to get you started:
+I'm continuously improving my skills by building hands-on projects, learning new technologies, and sharing my work on GitHub.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Currently Learning
+
+* Python Programming
+* Ethical Hacking
+* Network Security
+* Web Security
+* Automation
+
+## 🛠️ Skills
+
+* Python
+* Git & GitHub
+* Linux (Learning)
+* Networking Basics
+
+## 🎯 Goals
+
+* Build high-quality cybersecurity projects
+* Contribute to open-source projects
+* Earn cybersecurity certifications
+* Start a career in Cybersecurity
+
+Thanks for visiting my profile!
