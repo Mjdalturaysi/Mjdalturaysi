@@ -25,5 +25,10 @@ I'm continuously improving my skills by building hands-on projects, learning new
 * Contribute to open-source projects
 * Earn cybersecurity certifications
 * Start a career in Cybersecurity
+* ## Connect with Me
 
-Thanks for visiting my profile!
+* 💼 LinkedIn: https://www.linkedin.com/in/mjd-alturaysi-2356832b7
+* 📧 Email: [mjdmohammedalharbi@gmail.com]
+
+Thanks for visiting my profile
+⭐ Feel free to explore my repositories and follow my journey in Cybersecurity.
