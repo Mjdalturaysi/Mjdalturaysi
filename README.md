@@ -28,7 +28,7 @@ I'm continuously improving my skills by building hands-on projects, learning new
 * ## Connect with Me
 
 * 💼 LinkedIn: https://www.linkedin.com/in/mjd-alturaysi-2356832b7
-* 📧 Email: [mjd.alturaysi@gmail.com]
+* 📧 Email: mjd.alturaysi@gmail.com
 
 Thanks for visiting my profile
 ⭐ Feel free to explore my repositories and follow my journey in Cybersecurity.
